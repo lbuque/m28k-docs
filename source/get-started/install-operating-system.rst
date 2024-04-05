@@ -1,7 +1,7 @@
 安装操作系统
-===========
+=============
 
-.. include:: ../refs/install-operating-system.ref
+.. include:: ../refs/get-started.install-operating-system.ref
 
 准备工作
 --------

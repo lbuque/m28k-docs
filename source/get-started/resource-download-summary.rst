@@ -3,7 +3,7 @@
 资源下载汇总
 ============
 
-.. include:: ../refs/resource-download-summary.ref
+.. include:: ../refs/get-started.resource-download-summary.ref
 
 |所有资料包|_
 
